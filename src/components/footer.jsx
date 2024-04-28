@@ -13,7 +13,7 @@ const Footer = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Dennis
+              Shyam Kuntal
             </a>{' '}
           </span>
         </div>
