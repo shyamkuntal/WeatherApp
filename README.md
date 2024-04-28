@@ -4,12 +4,13 @@
 
 ## Getting started
 
-- Sign up over at [openweathermap.org](https://openweathermap.org) and get an API key.
-- Fork the project and clone it locally.
-- Install dependencies using [pnpm](https://pnpm.io/installation):
+first Go to Terminal
+npm install
+npm run dev
 
   ```sh
-  pnpm install
+  npm install
+  npm run dev
   ```
 
 - Create a file at the root of the project called `.env.local` with the following contents:
